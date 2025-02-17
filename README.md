@@ -17,6 +17,6 @@ A professional developer working in engineering.
 
 Python, LabVIEW, MATLAB
 
-- 📫 How to reach me: clarknick1990@gmail.com, nick.clark@yasa.com
+- 📫 How to reach me: clarknick1990@gmail.com
 - ⚡ Fun fact: I have a PhD in microwaves!
 - 🌱 I’m currently learning Rust
